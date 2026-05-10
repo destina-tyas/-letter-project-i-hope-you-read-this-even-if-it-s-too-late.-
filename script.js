@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nbtw happy birthday ya ell,I'm waiting for your birthday to come.niat loh aku wkwk.btw tolak aku secara langsung dong ell,kalau begini soalnya aku jadi on off cegilnya wkwk.happy birthday,all the best on your special day!many happy returns of the day,I always see you from a distance,turn to me if you want maybe?.`;
+const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nbtw happy birthday ya ell,I'm waiting for your birthday to come.niat loh aku wkwk.bingung meh tak tambahi opo, hbd ya ell btw gengsi nya turunin dong, yakalii aku chatt disini teruss Ihkk wkwk.happy birthday,all the best on your special day!many happy returns of the day,I always see you from a distance,turn to me if you want maybe?.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
